@@ -1,0 +1,1375 @@
+{
+  "nodes": [
+    {
+      "id": "_functionalSuitability",
+      "group": 3,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "_performanceEfficiency",
+      "group": 3,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "_compatibility",
+      "group": 3,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "_usability",
+      "group": 3,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis, Reliability analysis of software architecture evolution",
+      "importance": "350"
+    },
+    {
+      "id": "_reliability",
+      "group": 3,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "_maintainability",
+      "group": 3,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "_security",
+      "group": 3,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "_portability",
+      "group": 3,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "completeness",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "correctness",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "consistency",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "contextAwareness",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "functionality",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "suitability",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "performance",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "interoperability",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "usability",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "flexibility",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "understandability",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "discoverability",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "simplicity",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "maturity",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "reliability",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "availability",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "responsibility",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "robustness",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "security",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "confidentiality",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "non_repudiation",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "accountability",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "authenticity",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "integrity",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "sustainability",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "maintainability",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "stability",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "modifiability",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "reusability",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "analyzability",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "modularity",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "cohesion",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "complexity",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "testability",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "extendibility",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "scalability",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "clearness",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "evolvability",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "portability",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "adaptability",
+      "group": 2,
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "id": "abstraction",
+      "group": 1,
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Metrics driven architectural analysis using dependency graphs for C language projects, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "70"
+    },
+    {
+      "id": "architecture_Adaptability",
+      "group": 1,
+      "evidence": " On the relationships between QoS and software adaptability at the architectural level",
+      "importance": "38"
+    },
+    {
+      "id": "automation_of_Concerns",
+      "group": 1,
+      "evidence": " Injecting Quality Attributes into Software Architectures with the Common Variability Language"
+    },
+    {
+      "id": "autonomy_Ratio",
+      "group": 1,
+      "evidence": " Visualizing software structure understandability"
+    },
+    {
+      "id": "availability",
+      "group": 1,
+      "evidence": " Metrics driven architectural analysis using dependency graphs for C language projects, Evaluation and Classifying Software Architecture Styles Due to Quality Attributes",
+      "importance": "2"
+    },
+    {
+      "id": "average_Clustering_Coefficient",
+      "group": 1,
+      "evidence": " Design level quality analysis using fuzzy UML models and weighted complex networks"
+    },
+    {
+      "id": "average_Shortest_Path",
+      "group": 1,
+      "evidence": " Design level quality analysis using fuzzy UML models and weighted complex networks"
+    },
+    {
+      "id": "average_Weighted_Degree",
+      "group": 1,
+      "evidence": " Design level quality analysis using fuzzy UML models and weighted complex networks"
+    },
+    {
+      "id": "best_Practices_Adherence",
+      "group": 1,
+      "evidence": " Towards quantitative metrics for architecture models"
+    },
+    {
+      "id": "betweenness_Centrality",
+      "group": 1,
+      "evidence": " Design level quality analysis using fuzzy UML models and weighted complex networks"
+    },
+    {
+      "id": "change_Scenario_Robustness",
+      "group": 1,
+      "evidence": " Towards quantitative metrics for architecture models"
+    },
+    {
+      "id": "cohesion",
+      "group": 1,
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "id": "complexity",
+      "group": 1,
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Measuring the impact of changes to the complexity and coupling properties of automotive software systems, Metrics driven architectural analysis using dependency graphs for C language projects, Towards metrics for analyzing system architectures modeled with EAST-ADL, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "60"
+    },
+    {
+      "id": "composition",
+      "group": 1,
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "id": "confidentiality",
+      "group": 1,
+      "evidence": " Software Architecture Modeling and Evaluation Based on Stochastic Activity Networks"
+    },
+    {
+      "id": "coupling_Decoupling",
+      "group": 1,
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, An empirical study of software architectures’ effect on product quality, Measuring the impact of changes to the complexity and coupling properties of automotive software systems, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Towards a method for monitoring the coupling evolution of microservice-based architectures, Experiences applying automated architecture analysis tool suites, Decoupling level: A new metric for architectural maintenance complexity, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "id": "decision_Traceability",
+      "group": 1,
+      "evidence": " Towards quantitative metrics for architecture models"
+    },
+    {
+      "id": "decomposition",
+      "group": 1,
+      "evidence": " Towards quantitative metrics for architecture models"
+    },
+    {
+      "id": "dependency_of_Concerns",
+      "group": 1,
+      "evidence": " Injecting Quality Attributes into Software Architectures with the Common Variability Language"
+    },
+    {
+      "id": "dependency",
+      "group": 1,
+      "evidence": " Metrics driven architectural analysis using dependency graphs for C language projects, Metrics for verification and validation of architecture in powertrain software development",
+      "importance": "2"
+    },
+    {
+      "id": "dependency_Concentration",
+      "group": 1,
+      "evidence": " Metrics driven architectural analysis using dependency graphs for C language projects",
+      "importance": "2"
+    },
+    {
+      "id": "distance",
+      "group": 1,
+      "evidence": " Metrics driven architectural analysis using dependency graphs for C language projects",
+      "importance": "2"
+    },
+    {
+      "id": "encapsulation",
+      "group": 1,
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "id": "energyConsumption",
+      "group": 1,
+      "evidence": " Extending software architecture views with an energy consumption perspective"
+    },
+    {
+      "id": "evolvability",
+      "group": 1,
+      "evidence": " Analyzing Software Architecture Evolvability Based on Multiple Architectural Attributes Measurements"
+    },
+    {
+      "id": "extensibility",
+      "group": 1,
+      "evidence": " Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software"
+    },
+    {
+      "id": "failure_Probability",
+      "group": 1,
+      "evidence": " ACME+: An ADL for Quantitative Analysis of Quality Attributes, Automated quantitative attributes prediction from architectural description language, Computing attributes of software architectures a static method and its validation"
+    },
+    {
+      "id": "fan_out_Fan_in_Visibility",
+      "group": 1,
+      "evidence": " Metrics driven architectural analysis using dependency graphs for C language projects",
+      "importance": "2"
+    },
+    {
+      "id": "graph_Density",
+      "group": 1,
+      "evidence": " Metrics driven architectural analysis using dependency graphs for C language projects",
+      "importance": "2"
+    },
+    {
+      "id": "hierarchy",
+      "group": 1,
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "id": "in_OutDegree",
+      "group": 1,
+      "evidence": " Automated Continuous Evaluation of AUTOSAR Software Architecture for Complex Powertrain Systems, Design level quality analysis using fuzzy UML models and weighted complex networks, Metrics driven architectural analysis using dependency graphs for C language projects",
+      "importance": "2"
+    },
+    {
+      "id": "independence_Level",
+      "group": 1,
+      "evidence": " Decoupling level: A new metric for architectural maintenance complexity"
+    },
+    {
+      "id": "inheritance",
+      "group": 1,
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "id": "instability",
+      "group": 1,
+      "evidence": " Metrics driven architectural analysis using dependency graphs for C language projects",
+      "importance": "2"
+    },
+    {
+      "id": "inter_Service_Communication",
+      "group": 1,
+      "evidence": " Policy enforcement upon software based on microservice architecture"
+    },
+    {
+      "id": "interoperability",
+      "group": 1,
+      "evidence": " Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software"
+    },
+    {
+      "id": "maturity",
+      "group": 1,
+      "evidence": " Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software"
+    },
+    {
+      "id": "messaging",
+      "group": 1,
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "id": "no_of_Runnables_and_Inter_runnable_per_Software",
+      "group": 1,
+      "evidence": " Automated Continuous Evaluation of AUTOSAR Software Architecture for Complex Powertrain Systems"
+    },
+    {
+      "id": "polymorphism",
+      "group": 1,
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "id": "propagation_Cost",
+      "group": 1,
+      "evidence": " Experiences applying automated architecture analysis tool suites, Decoupling level: A new metric for architectural maintenance complexity, Flexibility in ecosystem architectures, Metrics driven architectural analysis using dependency graphs for C language projects",
+      "importance": "2"
+    },
+    {
+      "id": "q_Value",
+      "group": 1,
+      "evidence": " Metrics driven architectural analysis using dependency graphs for C language projects",
+      "importance": "2"
+    },
+    {
+      "id": "rationalization_Completeness",
+      "group": 1,
+      "evidence": " Towards quantitative metrics for architecture models"
+    },
+    {
+      "id": "reliability",
+      "group": 1,
+      "evidence": " Software Architecture Modeling and Evaluation Based on Stochastic Activity Networks, Reliability analysis of software architecture evolution",
+      "importance": "300"
+    },
+    {
+      "id": "requirement_Fulfillment",
+      "group": 1,
+      "evidence": " Towards quantitative metrics for architecture models"
+    },
+    {
+      "id": "resourceand_Client_count",
+      "group": 1,
+      "evidence": " Policy enforcement upon software based on microservice architecture"
+    },
+    {
+      "id": "response_Time",
+      "group": 1,
+      "evidence": " ACME+: An ADL for Quantitative Analysis of Quality Attributes, Automated quantitative attributes prediction from architectural description language, Computing attributes of software architectures a static method and its validation"
+    },
+    {
+      "id": "responsibility",
+      "group": 1,
+      "evidence": " Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software"
+    },
+    {
+      "id": "scalability",
+      "group": 1,
+      "evidence": " Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software"
+    },
+    {
+      "id": "separation_of_Concerns",
+      "group": 1,
+      "evidence": " Injecting Quality Attributes into Software Architectures with the Common Variability Language"
+    },
+    {
+      "id": "services_Adaptability",
+      "group": 1,
+      "evidence": " On the relationships between QoS and software adaptability at the architectural level",
+      "importance": "38"
+    },
+    {
+      "id": "simplicity",
+      "group": 1,
+      "evidence": " Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software"
+    },
+    {
+      "id": "size",
+      "group": 1,
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Metrics driven architectural analysis using dependency graphs for C language projects, Policy enforcement upon software based on microservice architecture, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "70"
+    },
+    {
+      "id": "suitability",
+      "group": 1,
+      "evidence": " Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software"
+    },
+    {
+      "id": "throughput",
+      "group": 1,
+      "evidence": " Computing attributes of software architectures a static method and its validation, Software Architecture Modeling and Evaluation Based on Stochastic Activity Networks"
+    },
+    {
+      "id": "unused_resource_and_unreachable_endpoint_count",
+      "group": 1,
+      "evidence": " Policy enforcement upon software based on microservice architecture"
+    },
+    {
+      "id": "variability_of_Concerns",
+      "group": 1,
+      "evidence": " Injecting Quality Attributes into Software Architectures with the Common Variability Language"
+    },
+    {
+      "id": "view_Consistency",
+      "group": 1,
+      "evidence": " Towards quantitative metrics for architecture models"
+    }
+  ],
+  "links": [
+    {
+      "source": "interoperability",
+      "target": "interoperability",
+      "evidence": " Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software"
+    },
+    {
+      "source": "interoperability",
+      "target": "resourceand_Client_count",
+      "evidence": " Policy enforcement upon software based on microservice architecture"
+    },
+    {
+      "source": "_compatibility",
+      "target": "interoperability",
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "source": "portability",
+      "target": "dependency",
+      "evidence": " Metrics driven architectural analysis using dependency graphs for C language projects, Metrics for verification and validation of architecture in powertrain software development",
+      "importance": "2"
+    },
+    {
+      "source": "adaptability",
+      "target": "services_Adaptability",
+      "evidence": " On the relationships between QoS and software adaptability at the architectural level",
+      "importance": "38"
+    },
+    {
+      "source": "adaptability",
+      "target": "architecture_Adaptability",
+      "evidence": " On the relationships between QoS and software adaptability at the architectural level",
+      "importance": "38"
+    },
+    {
+      "source": "_portability",
+      "target": "portability",
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "source": "performance",
+      "target": "response_Time",
+      "evidence": " ACME+: An ADL for Quantitative Analysis of Quality Attributes, Automated quantitative attributes prediction from architectural description language, Computing attributes of software architectures a static method and its validation"
+    },
+    {
+      "source": "performance",
+      "target": "throughput",
+      "evidence": " Computing attributes of software architectures a static method and its validation, Software Architecture Modeling and Evaluation Based on Stochastic Activity Networks"
+    },
+    {
+      "source": "performance",
+      "target": "average_Shortest_Path",
+      "evidence": " Design level quality analysis using fuzzy UML models and weighted complex networks"
+    },
+    {
+      "source": "performance",
+      "target": "energyConsumption",
+      "evidence": " Extending software architecture views with an energy consumption perspective"
+    },
+    {
+      "source": "_performanceEfficiency",
+      "target": "performance",
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "source": "security",
+      "target": "dependency",
+      "evidence": " Metrics driven architectural analysis using dependency graphs for C language projects, Metrics for verification and validation of architecture in powertrain software development",
+      "importance": "2"
+    },
+    {
+      "source": "security",
+      "target": "dependency_of_Concerns",
+      "evidence": " Injecting Quality Attributes into Software Architectures with the Common Variability Language"
+    },
+    {
+      "source": "security",
+      "target": "variability_of_Concerns",
+      "evidence": " Injecting Quality Attributes into Software Architectures with the Common Variability Language"
+    },
+    {
+      "source": "security",
+      "target": "automation_of_Concerns",
+      "evidence": " Injecting Quality Attributes into Software Architectures with the Common Variability Language"
+    },
+    {
+      "source": "security",
+      "target": "separation_of_Concerns",
+      "evidence": " Injecting Quality Attributes into Software Architectures with the Common Variability Language"
+    },
+    {
+      "source": "confidentiality",
+      "target": "coupling_Decoupling",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, An empirical study of software architectures’ effect on product quality, Measuring the impact of changes to the complexity and coupling properties of automotive software systems, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Towards a method for monitoring the coupling evolution of microservice-based architectures, Experiences applying automated architecture analysis tool suites, Decoupling level: A new metric for architectural maintenance complexity, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "confidentiality",
+      "target": "size",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Metrics driven architectural analysis using dependency graphs for C language projects, Policy enforcement upon software based on microservice architecture, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "70"
+    },
+    {
+      "source": "confidentiality",
+      "target": "polymorphism",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "confidentiality",
+      "target": "hierarchy",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "confidentiality",
+      "target": "confidentiality",
+      "evidence": " Software Architecture Modeling and Evaluation Based on Stochastic Activity Networks"
+    },
+    {
+      "source": "non_repudiation",
+      "target": "hierarchy",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "non_repudiation",
+      "target": "size",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Metrics driven architectural analysis using dependency graphs for C language projects, Policy enforcement upon software based on microservice architecture, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "70"
+    },
+    {
+      "source": "non_repudiation",
+      "target": "cohesion",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "accountability",
+      "target": "cohesion",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "accountability",
+      "target": "hierarchy",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "accountability",
+      "target": "polymorphism",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "authenticity",
+      "target": "inheritance",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "authenticity",
+      "target": "cohesion",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "authenticity",
+      "target": "polymorphism",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "integrity",
+      "target": "inheritance",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "integrity",
+      "target": "cohesion",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "_security",
+      "target": "security",
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "source": "usability",
+      "target": "dependency",
+      "evidence": " Metrics driven architectural analysis using dependency graphs for C language projects, Metrics for verification and validation of architecture in powertrain software development",
+      "importance": "2"
+    },
+    {
+      "source": "usability",
+      "target": "automation_of_Concerns",
+      "evidence": " Injecting Quality Attributes into Software Architectures with the Common Variability Language"
+    },
+    {
+      "source": "usability",
+      "target": "dependency_of_Concerns",
+      "evidence": " Injecting Quality Attributes into Software Architectures with the Common Variability Language"
+    },
+    {
+      "source": "flexibility",
+      "target": "propagation_Cost",
+      "evidence": " Experiences applying automated architecture analysis tool suites, Decoupling level: A new metric for architectural maintenance complexity, Flexibility in ecosystem architectures, Metrics driven architectural analysis using dependency graphs for C language projects",
+      "importance": "2"
+    },
+    {
+      "source": "understandability",
+      "target": "autonomy_Ratio",
+      "evidence": " Visualizing software structure understandability"
+    },
+    {
+      "source": "understandability",
+      "target": "no_of_Runnables_and_Inter_runnable_per_Software",
+      "evidence": " Automated Continuous Evaluation of AUTOSAR Software Architecture for Complex Powertrain Systems"
+    },
+    {
+      "source": "discoverability",
+      "target": "unused_resource_and_unreachable_endpoint_count",
+      "evidence": " Policy enforcement upon software based on microservice architecture"
+    },
+    {
+      "source": "simplicity",
+      "target": "simplicity",
+      "evidence": " Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software"
+    },
+    {
+      "source": "_usability",
+      "target": "usability",
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "source": "maturity",
+      "target": "maturity",
+      "evidence": " Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software"
+    },
+    {
+      "source": "reliability",
+      "target": "reliability",
+      "evidence": " Software Architecture Modeling and Evaluation Based on Stochastic Activity Networks, Reliability analysis of software architecture evolution",
+      "importance": "300"
+    },
+    {
+      "source": "reliability",
+      "target": "size",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Metrics driven architectural analysis using dependency graphs for C language projects, Policy enforcement upon software based on microservice architecture, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "70"
+    },
+    {
+      "source": "availability",
+      "target": "failure_Probability",
+      "evidence": " ACME+: An ADL for Quantitative Analysis of Quality Attributes, Automated quantitative attributes prediction from architectural description language, Computing attributes of software architectures a static method and its validation"
+    },
+    {
+      "source": "availability",
+      "target": "availability",
+      "evidence": " Metrics driven architectural analysis using dependency graphs for C language projects, Evaluation and Classifying Software Architecture Styles Due to Quality Attributes",
+      "importance": "2"
+    },
+    {
+      "source": "responsibility",
+      "target": "reliability",
+      "evidence": " Software Architecture Modeling and Evaluation Based on Stochastic Activity Networks, Reliability analysis of software architecture evolution",
+      "importance": "300"
+    },
+    {
+      "source": "responsibility",
+      "target": "responsibility",
+      "evidence": " Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software"
+    },
+    {
+      "source": "robustness",
+      "target": "betweenness_Centrality",
+      "evidence": " Design level quality analysis using fuzzy UML models and weighted complex networks"
+    },
+    {
+      "source": "_reliability",
+      "target": "reliability",
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "source": "completeness",
+      "target": "change_Scenario_Robustness",
+      "evidence": " Towards quantitative metrics for architecture models"
+    },
+    {
+      "source": "completeness",
+      "target": "rationalization_Completeness",
+      "evidence": " Towards quantitative metrics for architecture models"
+    },
+    {
+      "source": "correctness",
+      "target": "requirement_Fulfillment",
+      "evidence": " Towards quantitative metrics for architecture models"
+    },
+    {
+      "source": "consistency",
+      "target": "view_Consistency",
+      "evidence": " Towards quantitative metrics for architecture models"
+    },
+    {
+      "source": "contextAwareness",
+      "target": "dependency",
+      "evidence": " Metrics driven architectural analysis using dependency graphs for C language projects, Metrics for verification and validation of architecture in powertrain software development",
+      "importance": "2"
+    },
+    {
+      "source": "contextAwareness",
+      "target": "separation_of_Concerns",
+      "evidence": " Injecting Quality Attributes into Software Architectures with the Common Variability Language"
+    },
+    {
+      "source": "contextAwareness",
+      "target": "variability_of_Concerns",
+      "evidence": " Injecting Quality Attributes into Software Architectures with the Common Variability Language"
+    },
+    {
+      "source": "contextAwareness",
+      "target": "automation_of_Concerns",
+      "evidence": " Injecting Quality Attributes into Software Architectures with the Common Variability Language"
+    },
+    {
+      "source": "contextAwareness",
+      "target": "dependency_of_Concerns",
+      "evidence": " Injecting Quality Attributes into Software Architectures with the Common Variability Language"
+    },
+    {
+      "source": "suitability",
+      "target": "suitability",
+      "evidence": " Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software"
+    },
+    {
+      "source": "suitability",
+      "target": "inter_Service_Communication",
+      "evidence": " Policy enforcement upon software based on microservice architecture"
+    },
+    {
+      "source": "suitability",
+      "target": "size",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Metrics driven architectural analysis using dependency graphs for C language projects, Policy enforcement upon software based on microservice architecture, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "70"
+    },
+    {
+      "source": "functionality",
+      "target": "size",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Metrics driven architectural analysis using dependency graphs for C language projects, Policy enforcement upon software based on microservice architecture, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "70"
+    },
+    {
+      "source": "_functionalSuitability",
+      "target": "functionality",
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    },
+    {
+      "source": "sustainability",
+      "target": "energyConsumption",
+      "evidence": " Extending software architecture views with an energy consumption perspective"
+    },
+    {
+      "source": "maintainability",
+      "target": "complexity",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Measuring the impact of changes to the complexity and coupling properties of automotive software systems, Metrics driven architectural analysis using dependency graphs for C language projects, Towards metrics for analyzing system architectures modeled with EAST-ADL, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "60"
+    },
+    {
+      "source": "maintainability",
+      "target": "in_OutDegree",
+      "evidence": " Automated Continuous Evaluation of AUTOSAR Software Architecture for Complex Powertrain Systems, Design level quality analysis using fuzzy UML models and weighted complex networks, Metrics driven architectural analysis using dependency graphs for C language projects",
+      "importance": "2"
+    },
+    {
+      "source": "maintainability",
+      "target": "abstraction",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Metrics driven architectural analysis using dependency graphs for C language projects, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "70"
+    },
+    {
+      "source": "maintainability",
+      "target": "distance",
+      "evidence": " Metrics driven architectural analysis using dependency graphs for C language projects",
+      "importance": "2"
+    },
+    {
+      "source": "maintainability",
+      "target": "q_Value",
+      "evidence": " Metrics driven architectural analysis using dependency graphs for C language projects",
+      "importance": "2"
+    },
+    {
+      "source": "maintainability",
+      "target": "instability",
+      "evidence": " Metrics driven architectural analysis using dependency graphs for C language projects",
+      "importance": "2"
+    },
+    {
+      "source": "maintainability",
+      "target": "graph_Density",
+      "evidence": " Metrics driven architectural analysis using dependency graphs for C language projects",
+      "importance": "2"
+    },
+    {
+      "source": "maintainability",
+      "target": "fan_out_Fan_in_Visibility",
+      "evidence": " Metrics driven architectural analysis using dependency graphs for C language projects",
+      "importance": "2"
+    },
+    {
+      "source": "maintainability",
+      "target": "dependency_of_Concerns",
+      "evidence": " Injecting Quality Attributes into Software Architectures with the Common Variability Language"
+    },
+    {
+      "source": "maintainability",
+      "target": "average_Clustering_Coefficient",
+      "evidence": " Design level quality analysis using fuzzy UML models and weighted complex networks"
+    },
+    {
+      "source": "maintainability",
+      "target": "coupling_Decoupling",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, An empirical study of software architectures’ effect on product quality, Measuring the impact of changes to the complexity and coupling properties of automotive software systems, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Towards a method for monitoring the coupling evolution of microservice-based architectures, Experiences applying automated architecture analysis tool suites, Decoupling level: A new metric for architectural maintenance complexity, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "maintainability",
+      "target": "size",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Metrics driven architectural analysis using dependency graphs for C language projects, Policy enforcement upon software based on microservice architecture, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "70"
+    },
+    {
+      "source": "maintainability",
+      "target": "propagation_Cost",
+      "evidence": " Experiences applying automated architecture analysis tool suites, Decoupling level: A new metric for architectural maintenance complexity, Flexibility in ecosystem architectures, Metrics driven architectural analysis using dependency graphs for C language projects",
+      "importance": "2"
+    },
+    {
+      "source": "stability",
+      "target": "coupling_Decoupling",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, An empirical study of software architectures’ effect on product quality, Measuring the impact of changes to the complexity and coupling properties of automotive software systems, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Towards a method for monitoring the coupling evolution of microservice-based architectures, Experiences applying automated architecture analysis tool suites, Decoupling level: A new metric for architectural maintenance complexity, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "modifiability",
+      "target": "complexity",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Measuring the impact of changes to the complexity and coupling properties of automotive software systems, Metrics driven architectural analysis using dependency graphs for C language projects, Towards metrics for analyzing system architectures modeled with EAST-ADL, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "60"
+    },
+    {
+      "source": "modifiability",
+      "target": "coupling_Decoupling",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, An empirical study of software architectures’ effect on product quality, Measuring the impact of changes to the complexity and coupling properties of automotive software systems, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Towards a method for monitoring the coupling evolution of microservice-based architectures, Experiences applying automated architecture analysis tool suites, Decoupling level: A new metric for architectural maintenance complexity, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "modifiability",
+      "target": "hierarchy",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "modifiability",
+      "target": "encapsulation",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "modifiability",
+      "target": "inheritance",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "modifiability",
+      "target": "cohesion",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "reusability",
+      "target": "abstraction",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Metrics driven architectural analysis using dependency graphs for C language projects, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "70"
+    },
+    {
+      "source": "reusability",
+      "target": "average_Weighted_Degree",
+      "evidence": " Design level quality analysis using fuzzy UML models and weighted complex networks"
+    },
+    {
+      "source": "reusability",
+      "target": "complexity",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Measuring the impact of changes to the complexity and coupling properties of automotive software systems, Metrics driven architectural analysis using dependency graphs for C language projects, Towards metrics for analyzing system architectures modeled with EAST-ADL, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "60"
+    },
+    {
+      "source": "reusability",
+      "target": "composition",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "reusability",
+      "target": "in_OutDegree",
+      "evidence": " Automated Continuous Evaluation of AUTOSAR Software Architecture for Complex Powertrain Systems, Design level quality analysis using fuzzy UML models and weighted complex networks, Metrics driven architectural analysis using dependency graphs for C language projects",
+      "importance": "2"
+    },
+    {
+      "source": "reusability",
+      "target": "coupling_Decoupling",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, An empirical study of software architectures’ effect on product quality, Measuring the impact of changes to the complexity and coupling properties of automotive software systems, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Towards a method for monitoring the coupling evolution of microservice-based architectures, Experiences applying automated architecture analysis tool suites, Decoupling level: A new metric for architectural maintenance complexity, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "reusability",
+      "target": "size",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Metrics driven architectural analysis using dependency graphs for C language projects, Policy enforcement upon software based on microservice architecture, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "70"
+    },
+    {
+      "source": "reusability",
+      "target": "hierarchy",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "reusability",
+      "target": "encapsulation",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "reusability",
+      "target": "polymorphism",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "analyzability",
+      "target": "abstraction",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Metrics driven architectural analysis using dependency graphs for C language projects, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "70"
+    },
+    {
+      "source": "analyzability",
+      "target": "complexity",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Measuring the impact of changes to the complexity and coupling properties of automotive software systems, Metrics driven architectural analysis using dependency graphs for C language projects, Towards metrics for analyzing system architectures modeled with EAST-ADL, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "60"
+    },
+    {
+      "source": "analyzability",
+      "target": "coupling_Decoupling",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, An empirical study of software architectures’ effect on product quality, Measuring the impact of changes to the complexity and coupling properties of automotive software systems, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Towards a method for monitoring the coupling evolution of microservice-based architectures, Experiences applying automated architecture analysis tool suites, Decoupling level: A new metric for architectural maintenance complexity, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "analyzability",
+      "target": "size",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Metrics driven architectural analysis using dependency graphs for C language projects, Policy enforcement upon software based on microservice architecture, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "70"
+    },
+    {
+      "source": "analyzability",
+      "target": "inheritance",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "analyzability",
+      "target": "cohesion",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "analyzability",
+      "target": "encapsulation",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "modularity",
+      "target": "complexity",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Measuring the impact of changes to the complexity and coupling properties of automotive software systems, Metrics driven architectural analysis using dependency graphs for C language projects, Towards metrics for analyzing system architectures modeled with EAST-ADL, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "60"
+    },
+    {
+      "source": "modularity",
+      "target": "composition",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "modularity",
+      "target": "in_OutDegree",
+      "evidence": " Automated Continuous Evaluation of AUTOSAR Software Architecture for Complex Powertrain Systems, Design level quality analysis using fuzzy UML models and weighted complex networks, Metrics driven architectural analysis using dependency graphs for C language projects",
+      "importance": "2"
+    },
+    {
+      "source": "modularity",
+      "target": "independence_Level",
+      "evidence": " Decoupling level: A new metric for architectural maintenance complexity"
+    },
+    {
+      "source": "modularity",
+      "target": "messaging",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "modularity",
+      "target": "coupling_Decoupling",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, An empirical study of software architectures’ effect on product quality, Measuring the impact of changes to the complexity and coupling properties of automotive software systems, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Towards a method for monitoring the coupling evolution of microservice-based architectures, Experiences applying automated architecture analysis tool suites, Decoupling level: A new metric for architectural maintenance complexity, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "modularity",
+      "target": "size",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Metrics driven architectural analysis using dependency graphs for C language projects, Policy enforcement upon software based on microservice architecture, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "70"
+    },
+    {
+      "source": "modularity",
+      "target": "hierarchy",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "modularity",
+      "target": "cohesion",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "modularity",
+      "target": "inheritance",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "cohesion",
+      "target": "cohesion",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "complexity",
+      "target": "complexity",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Measuring the impact of changes to the complexity and coupling properties of automotive software systems, Metrics driven architectural analysis using dependency graphs for C language projects, Towards metrics for analyzing system architectures modeled with EAST-ADL, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "60"
+    },
+    {
+      "source": "complexity",
+      "target": "no_of_Runnables_and_Inter_runnable_per_Software",
+      "evidence": " Automated Continuous Evaluation of AUTOSAR Software Architecture for Complex Powertrain Systems"
+    },
+    {
+      "source": "complexity",
+      "target": "propagation_Cost",
+      "evidence": " Experiences applying automated architecture analysis tool suites, Decoupling level: A new metric for architectural maintenance complexity, Flexibility in ecosystem architectures, Metrics driven architectural analysis using dependency graphs for C language projects",
+      "importance": "2"
+    },
+    {
+      "source": "complexity",
+      "target": "size",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Metrics driven architectural analysis using dependency graphs for C language projects, Policy enforcement upon software based on microservice architecture, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "70"
+    },
+    {
+      "source": "testability",
+      "target": "messaging",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "testability",
+      "target": "in_OutDegree",
+      "evidence": " Automated Continuous Evaluation of AUTOSAR Software Architecture for Complex Powertrain Systems, Design level quality analysis using fuzzy UML models and weighted complex networks, Metrics driven architectural analysis using dependency graphs for C language projects",
+      "importance": "2"
+    },
+    {
+      "source": "testability",
+      "target": "complexity",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Measuring the impact of changes to the complexity and coupling properties of automotive software systems, Metrics driven architectural analysis using dependency graphs for C language projects, Towards metrics for analyzing system architectures modeled with EAST-ADL, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "60"
+    },
+    {
+      "source": "testability",
+      "target": "coupling_Decoupling",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, An empirical study of software architectures’ effect on product quality, Measuring the impact of changes to the complexity and coupling properties of automotive software systems, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Towards a method for monitoring the coupling evolution of microservice-based architectures, Experiences applying automated architecture analysis tool suites, Decoupling level: A new metric for architectural maintenance complexity, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "testability",
+      "target": "size",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Metrics driven architectural analysis using dependency graphs for C language projects, Policy enforcement upon software based on microservice architecture, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Towards metrics for analyzing system architectures modeled with EAST-ADL, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "70"
+    },
+    {
+      "source": "testability",
+      "target": "hierarchy",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "testability",
+      "target": "cohesion",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, Metrics for verification and validation of architecture in powertrain software development, Decision Making for the Software Architecture Structure Based on the Criteria Importance Theory, Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "testability",
+      "target": "inheritance",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "extendibility",
+      "target": "extensibility",
+      "evidence": " Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software"
+    },
+    {
+      "source": "scalability",
+      "target": "messaging",
+      "evidence": " An empirical evaluation model for software architecture maintainability for object oriented design, Software architectural quality assessment model for security analysis using fuzzy analytical hierarchy process (FAHP) method, A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "68"
+    },
+    {
+      "source": "scalability",
+      "target": "scalability",
+      "evidence": " Hierarchical Criterion Approach for Architecture Structure Selection of Transportation Software"
+    },
+    {
+      "source": "clearness",
+      "target": "decomposition",
+      "evidence": " Towards quantitative metrics for architecture models"
+    },
+    {
+      "source": "clearness",
+      "target": "decision_Traceability",
+      "evidence": " Towards quantitative metrics for architecture models"
+    },
+    {
+      "source": "clearness",
+      "target": "best_Practices_Adherence",
+      "evidence": " Towards quantitative metrics for architecture models"
+    },
+    {
+      "source": "evolvability",
+      "target": "evolvability",
+      "evidence": " Analyzing Software Architecture Evolvability Based on Multiple Architectural Attributes Measurements"
+    },
+    {
+      "source": "_maintainability",
+      "target": "maintainability",
+      "evidence": " A fuzzy analytical hierarchy process (FAHP) based software quality assessment model: Maintainability analysis",
+      "importance": "50"
+    }
+  ]
+}

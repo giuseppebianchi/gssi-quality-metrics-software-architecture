@@ -1,0 +1,16 @@
+{
+  "name": "quality-metrics-software-architecture",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "vite": "^3.2.0"
+  },
+  "dependencies": {}
+}

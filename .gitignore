@@ -1,0 +1,9 @@
+node_modules
+.idea
+.env
+
+# Vite
+vite.html
+vite.css
+vite.js
+public/vite.svg
