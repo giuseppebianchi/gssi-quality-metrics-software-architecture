@@ -5,7 +5,7 @@
   html {
     height: 100vh;
     width: 100vw;
-      overflow: hidden;
+    overflow: hidden;
   }
   #container {
     width: 100%;
@@ -80,12 +80,30 @@
     font-family: sans-serif;
     font-size: 10px;
   }
+  #legend {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
+  #legend svg {
+    width: 200px;
+    height: 85px;
+    background: white;
+    border: 1px solid #ededed;
+    border-radius: 10px;
+  }
 </style>
 <div id="container"></div>
+<div id="legend"></div>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
   const nodesTooltipContentLabels = ["evidence"];
   const linksTooltipContentLabels = ["evidence"];
+  const groups = [
+    { value: 1, label: "Metric" },
+    { value: 2, label: "QualityAttributes" },
+    { value: 3, label: "QualityCharacteristic" },
+  ];
 
   const width = window.innerWidth,
     height = window.innerHeight,
@@ -225,7 +243,7 @@
 
     drag_handler(node);
 
-    const lables = node
+    const labels = node
       .append("text")
       .text(function (d) {
         return d.id;
@@ -259,6 +277,46 @@
         return "translate(" + d.x + "," + d.y + ")";
       });
     }
+
+    //Initialize legend
+    const legendItemSize = 12;
+    const legendSpacing = 10;
+    const xOffset = 20; //150;
+    const yOffset = 20; // 100;
+    const legend = d3
+      .select("#legend")
+      .append("svg")
+      .style(
+        "height",
+        yOffset * 2 +
+          groups.length * (legendItemSize + legendSpacing) -
+          legendSpacing
+      )
+      .selectAll(".legendItem")
+      .data(groups);
+
+    //Create legend items
+    legend
+      .enter()
+      .append("rect")
+      .attr("class", "legendItem")
+      .attr("width", legendItemSize)
+      .attr("height", legendItemSize)
+      .style("fill", (d) => color(d.value))
+      .attr("transform", (d, i) => {
+        var x = xOffset;
+        var y = yOffset + (legendItemSize + legendSpacing) * i;
+        return `translate(${x}, ${y})`;
+      });
+
+    //Create legend labels
+    legend
+      .enter()
+      .append("text")
+      .attr("x", xOffset + legendItemSize + 5)
+      .attr("y", (d, i) => yOffset + (legendItemSize + legendSpacing) * i + 11)
+      .text((d) => d.label)
+      .style("font-size", 14);
   });
 
   function dragstarted(d) {
