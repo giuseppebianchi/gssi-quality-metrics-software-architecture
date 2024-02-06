@@ -105,6 +105,12 @@
     { value: 3, label: "QualityCharacteristic" },
   ];
 
+  // Legend config
+  const legendItemSize = 12;
+  const legendSpacing = 10;
+  const xOffset = 20; //150;
+  const yOffset = 20; // 100;
+
   const width = window.innerWidth,
     height = window.innerHeight,
     MIN_SCALE = 0.3,
@@ -279,10 +285,6 @@
     }
 
     //Initialize legend
-    const legendItemSize = 12;
-    const legendSpacing = 10;
-    const xOffset = 20; //150;
-    const yOffset = 20; // 100;
     const legend = d3
       .select("#legend")
       .append("svg")
