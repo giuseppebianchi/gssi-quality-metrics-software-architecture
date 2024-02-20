@@ -21,6 +21,10 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+env:
+  # Setting an environment variable with the value of a configuration variable
+  VITE_BASE_PATH: ${{ vars.VITE_BASE_PATH }}
+
 jobs:
   # Single deploy job since we're just deploying
   deploy:
